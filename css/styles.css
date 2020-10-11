@@ -36,6 +36,7 @@ ul {
 .navbar {
   font-family: 'Roboto Slab', serif;
   background-color: #ff414d;
+  width: auto;
   padding: 5px;
 }
 
@@ -182,6 +183,7 @@ ul {
   background-color: #8d93ab;
   margin-top: 1200px;
   height: 80px;
+  width: auto;
 }
 
 .footer-p {
