@@ -46,8 +46,8 @@ ul {
 .navbar-link {
   text-decoration: none;
   color: white;
-  padding-left: 50px;
   font-size: 14px;
+  margin-left: 50px;
 }
 
 .navbar-link:hover {
