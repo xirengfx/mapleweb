@@ -2,7 +2,6 @@ body {
   background-color: #d9ecf2;
   font-family: 'Open Sans', sans-serif;
   margin: 0;
-  width: 100%;
 }
 
 ul {
@@ -38,6 +37,7 @@ ul {
   font-family: 'Roboto Slab', serif;
   background-color: #ff414d;
   padding: 5px;
+  width: 100%;
 }
 
 .navbar-li {
